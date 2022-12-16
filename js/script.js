@@ -1,6 +1,6 @@
 function anh() {
-    window.location="https://hayashijiro.github.io/dichanh/";
+    window.open="https://hayashijiro.github.io/dichanh/";
 }
 function mic() {
-    window.location="https://hayashijiro.github.io/dichamthanh/";
+    window.open="https://hayashijiro.github.io/dichamthanh/";
 }
